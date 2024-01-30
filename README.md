@@ -21,7 +21,7 @@
 # Online Shop Backend
 
 ## Langkah-langkah Menjalankan Backend
-1. Instalasi Dependencie
+1. Instalasi Dependencies
 - Buka terminal dan pindah ke direktori project.
 - Jalankan perintah berikut untuk menginstal semua dependencies:
 ```bash
