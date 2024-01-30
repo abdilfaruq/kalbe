@@ -1,0 +1,75 @@
+body {
+  background-color: #242424;
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Checkout Container Styles */
+.checkout-container {
+  text-align: center;
+  margin: 20px auto;
+  max-width: 600px;
+  padding: 20px;
+  border: 1px solid #242424;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+/* Customer Info Styles */
+.customer-info {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.customer-info p {
+  margin: 10px 0;
+}
+
+/* Back Button Styles */
+.back-button {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #000;
+}
+
+.back-button svg {
+  margin-right: 5px;
+}
+
+/* Checkout Item Styles */
+.checkout-item {
+  border-bottom: 1px solid #242424;
+  padding: 10px 0;
+}
+
+/* Total Amount Styles */
+.total-amount {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+/* Place Order Button Styles */
+.place-order-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.place-order-button:hover {
+  background-color: #45a049;
+}
