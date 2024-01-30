@@ -51,8 +51,8 @@ contoh:
  node seeders/seed.js
 ```
 
-4. Menjalankan Proyek
-- Setelah proses penginstalan, migrasi dan seeder selesai, dapat menjalankan proyek menggunakan perintah berikut:
+4. Menjalankan project
+- Setelah proses penginstalan, migrasi dan seeder selesai, dapat menjalankan project menggunakan perintah berikut:
 ```bash
  node app.js
 ```
